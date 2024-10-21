@@ -1,3 +1,3 @@
-# CCD_Characterization_student
+# ObservingProject_Student
 
 Cady James
